@@ -1,0 +1,6 @@
+Project Euler 1-10
+
+Ruby on Rails tut by Michael Hartl 
+
+Rails for Zombies
+
