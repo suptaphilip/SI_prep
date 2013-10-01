@@ -1,7 +1,12 @@
-Project Euler 1-10
+Complete - Project Euler 1-10
+Complete - Rails for Zombies (Codeschool)
 
-Ruby on Rails tut by Michael Hartl
+
+
+Currently- Ruby on Rails tut by Michael Hartl
 		*with Rspec tests => TDD
 
-Rails for Zombies
+Currently - Programming Ruby 
+			=> from Ruby Doc
+
 
