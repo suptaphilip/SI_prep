@@ -1,6 +1,7 @@
 Project Euler 1-10
 
-Ruby on Rails tut by Michael Hartl 
+Ruby on Rails tut by Michael Hartl
+		*with Rspec tests => TDD
 
 Rails for Zombies
 
