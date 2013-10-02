@@ -12,6 +12,10 @@
 	100% Complete => Try Ruby 
 	100% Complete => Rails for Zombies
 
+#Github
+	Set up a github.io page and pointed it to a 
+	spare domain I own- gyvwater.com
+
 
 #Project Euler
 	Complete probs 1-10
