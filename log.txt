@@ -1,6 +1,17 @@
+#Codecademy
+	100% Complete => Ruby track
+	100% Complete => Web Fundamentals track
+	88% Complete => Web Projects track
+	26% Complete => Javascript track
+
+#Dash.generalassemb.ly
+	Completed all projects (responsive blog theme, simple js, etc)
+
+
 #Codeschool
-	Complete - Try Ruby 
-	Complete - Rails for Zombies
+	100% Complete => Try Ruby 
+	100% Complete => Rails for Zombies
+
 
 #Project Euler
 	Complete probs 1-10
