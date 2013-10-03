@@ -11,6 +11,7 @@
 #Codeschool
 	100% Complete => Try Ruby 
 	100% Complete => Rails for Zombies
+	100% Complete => Ruby Bits
 
 #Github
 	Set up a github.io page and pointed it to a 
