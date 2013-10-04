@@ -21,8 +21,8 @@
 #Project Euler
 	Complete probs 1-10
 
-#Michael Hartl
-	Currently- RoR tut
+#Michael Hartl/ Ruby on Rails Tutorial
+	Complete through Chapter 8
 
 #Other
 	Currently - Programming Ruby (from Ruby Doc)
