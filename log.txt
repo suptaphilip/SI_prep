@@ -4,8 +4,11 @@
 	88% Complete => Web Projects track
 	26% Complete => Javascript track
 
-#Dash.generalassemb.ly
-	Completed all projects (responsive blog theme, simple js, etc)
+#Dash/ General Assembly
+	100% Complete => "Build a personal website"
+	100% Complete => "Build a responsive blog theme"
+	100% Complete => "Build a small business website"
+	100% Complete => "Build a CSS Robot"
 
 
 #Codeschool
