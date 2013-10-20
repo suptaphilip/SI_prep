@@ -18,6 +18,21 @@
 	Set up a github.io page and pointed it to a 
 	spare domain I own- gyvwater.com
 
+#Codewars
+	Ruby Person Class Bug
+	Elapsed Seconds
+	Sort arrays- 1
+	Reversed Strings
+	Populate hast with array keys and default value
+	Retrieve array value by index with default
+	Mr. Freeze
+	Refactored Greeting
+	Float Precision
+	Substitute variables into strings: padded numbers
+	No oddities here
+	Multiply
+	Broken greeting
+
 
 #Project Euler
 	Complete probs 1-10
