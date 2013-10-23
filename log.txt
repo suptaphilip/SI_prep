@@ -45,5 +45,6 @@
 
 #Other
 	Currently - Programming Ruby (from Ruby Doc)
+	Set up dev environment with XCode, Git, Command Line Tools, rbenv, Ruby 2.0.0-p247, Rails 4, Bundler, Homebrew, Sublime Text 2, Iterm, Alfred
 
 
