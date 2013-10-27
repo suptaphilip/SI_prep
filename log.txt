@@ -1,6 +1,7 @@
 #Codecademy
 	100% Complete => Ruby track
 	100% Complete => Web Fundamentals track
+	100% Complete => Intro to Twitter API
 	88% Complete => Web Projects track
 	26% Complete => Javascript track
 

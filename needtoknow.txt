@@ -1,0 +1,10 @@
+******** I NEED TO KNOW THIS ***********
+*********(and how to know this)*********
+
+1. Data structures, binary search trees, stacks,
+    queues, linked lists, hash tables, hash maps, dictionary (key value pairs)
+      =====> programming interviews exposed- secrets to landing your next job
+
+      http://books.lihui.org/cs2/Wiley%20-%20Programming%20Interviews%20Exposed_Secrets%20to%20Landing%20Your%20Next%20Job%20(2000).pdf
+
+
